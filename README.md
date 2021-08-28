@@ -4,16 +4,18 @@ This project records some of the excellent content I encountered in the process 
 
 Learning English for Faith,Learning English for Money！
 
-This project was created on November 13, 2020, and the last update time was December 11, 2020.
+This project was created on November 13, 2020, and the last update time was August 28, 2021.
 
 - [0x01-English Resources]()
 - [0x02-English Word]()
-- [0x03-English Grammar]()
+- [0x03-English Phrases]()
+- [0x04-English Grammar]()
+- [0x05-English Booksr]()
+- [0x06-English Teacher]()
 
 ## 0x01-English Resources
 
 一、Getting started
-
 - [ ] https://github.com/xiaolai/everyone-can-use-english
 - [ ] https://github.com/byoungd/English-level-up-tips-for-Chinese
 - [ ] https://github.com/mahavivo/english-wordlists
@@ -25,24 +27,24 @@ This project was created on November 13, 2020, and the last update time was Dece
 - [ ] https://github.com/Wei-Xia/most-frequent-technology-english-words
 
 二、Video tutorial
-
 - [ ] https://github.com
 
 三、English original
-
 - [ ] https://github.com
 
 四、Learning forum
-
 - [ ] https://github.com
 
 五、Other resources
-
 - [ ] https://github.com/jiangqizheng/BlueSea
 
 ## 0x02-English Word
 
-## 0x03-English Grammar
+## 0x03-English Phrases
+
+- Fuuuuuuuck are you serious man ?
+
+## 0x04-English Grammar
 
 - [ ] https://github.com
 
